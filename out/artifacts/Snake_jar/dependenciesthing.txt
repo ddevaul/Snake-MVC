@@ -1,0 +1,3 @@
+java --module-path /Users/Desi/Documents/lib/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web,javafx.base -jar Snake.jar  
+
+// make this one line 
